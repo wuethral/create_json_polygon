@@ -1,0 +1,6 @@
+__pycache__/
+include/
+Lib/
+Scripts/
+polygon_labels.json
+pyvenv.cfg
